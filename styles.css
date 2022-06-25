@@ -1,7 +1,11 @@
 body{
-    margin: 0;
-    background: aquamarine;
+    margin: 0;    
     font:bold 20px arial,verdana;
     text-align: left;
+    color: bisque;
+    background-image: url("background.png");
+    background-size: cover;
+    height: 100%;
+
 
 }
