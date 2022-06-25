@@ -1,8 +1,8 @@
 body{
-    margin: 50;    
+    margin: 100;    
     font:bold 20px arial,verdana;
     text-align: left;
-    color: bisque;
+    color: white;
     background-image: url("sunset.jpg");
     background-size: cover;
     height: 100%;
